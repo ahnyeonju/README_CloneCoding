@@ -19,8 +19,8 @@
 > 디자인 분야에서의 경험을 살려 사용자의 입장에서 생각해 항상 발전하는 개발자가 되기위해 노력하고 있습니다.
 >```
 ## 📌  Projects
-### 1. [여기어때](https://github.com/ahnyeonju/CloneCoding--) - github 주소
-### 1. [포트폴리오](https://github.com/ahnyeonju/README_CloneCoding/blob/main/%EC%95%88%EC%97%B0%EC%A3%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) - 포트폴리오PDF 주소
+### 1. [여기어때](https://github.com/ahnyeonju/CloneCoding--) - 프로젝트 파일 github 주소
+### 1. [포트폴리오](https://github.com/ahnyeonju/README_CloneCoding/blob/main/%EC%95%88%EC%97%B0%EC%A3%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) - 포트폴리오 PDF 주소
 
 >  숙박 중개 사이트 (팀 프로젝트)
 * 개발 기간 : 2021. 07 ~ 2021. 11
