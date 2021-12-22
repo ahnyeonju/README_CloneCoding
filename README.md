@@ -20,6 +20,8 @@
 >```
 ## 📌  Projects
 ### 1. [여기어때](https://github.com/ahnyeonju/CloneCoding--) - github 주소
+### 1. [포트폴리오](https://github.com/ahnyeonju/README_CloneCoding/blob/main/%EC%95%88%EC%97%B0%EC%A3%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) - 포트폴리오PDF 주소
+
 >  숙박 중개 사이트 (팀 프로젝트)
 * 개발 기간 : 2021. 07 ~ 2021. 11
 * 참여 인원 : 6명
